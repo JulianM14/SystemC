@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\julia\\source\\repos\\Aufgabe_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3425B502-707B-444D-B3F1-0696340BA742}|ConsoleApplication1.vcxproj|C:\\Users\\julia\\source\\repos\\Aufgabe_2\\display.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3425B502-707B-444D-B3F1-0696340BA742}|ConsoleApplication1.vcxproj|solutionrelative:display.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3425B502-707B-444D-B3F1-0696340BA742}|ConsoleApplication1.vcxproj|C:\\Users\\julia\\source\\repos\\Aufgabe_2\\stimuli.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3425B502-707B-444D-B3F1-0696340BA742}|ConsoleApplication1.vcxproj|solutionrelative:stimuli.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3425B502-707B-444D-B3F1-0696340BA742}|ConsoleApplication1.vcxproj|C:\\Users\\julia\\source\\repos\\Aufgabe_2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3425B502-707B-444D-B3F1-0696340BA742}|ConsoleApplication1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3425B502-707B-444D-B3F1-0696340BA742}|ConsoleApplication1.vcxproj|C:\\Users\\julia\\source\\repos\\Aufgabe_2\\module_multiplier.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3425B502-707B-444D-B3F1-0696340BA742}|ConsoleApplication1.vcxproj|solutionrelative:module_multiplier.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3425B502-707B-444D-B3F1-0696340BA742}|ConsoleApplication1.vcxproj|C:\\Users\\julia\\source\\repos\\Aufgabe_2\\module_adder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3425B502-707B-444D-B3F1-0696340BA742}|ConsoleApplication1.vcxproj|solutionrelative:module_adder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stimuli.cpp",
+              "DocumentMoniker": "C:\\Users\\julia\\source\\repos\\Aufgabe_2\\stimuli.cpp",
+              "RelativeDocumentMoniker": "stimuli.cpp",
+              "ToolTip": "C:\\Users\\julia\\source\\repos\\Aufgabe_2\\stimuli.cpp",
+              "RelativeToolTip": "stimuli.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-15T08:11:15.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "display.cpp",
+              "DocumentMoniker": "C:\\Users\\julia\\source\\repos\\Aufgabe_2\\display.cpp",
+              "RelativeDocumentMoniker": "display.cpp",
+              "ToolTip": "C:\\Users\\julia\\source\\repos\\Aufgabe_2\\display.cpp",
+              "RelativeToolTip": "display.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-15T07:58:47.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\julia\\source\\repos\\Aufgabe_2\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\julia\\source\\repos\\Aufgabe_2\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAA4AAADAmdlDazchwCAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-15T07:54:08.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "module_multiplier.cpp",
+              "DocumentMoniker": "C:\\Users\\julia\\source\\repos\\Aufgabe_2\\module_multiplier.cpp",
+              "RelativeDocumentMoniker": "module_multiplier.cpp",
+              "ToolTip": "C:\\Users\\julia\\source\\repos\\Aufgabe_2\\module_multiplier.cpp",
+              "RelativeToolTip": "module_multiplier.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-15T07:52:55.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "module_adder.cpp",
+              "DocumentMoniker": "C:\\Users\\julia\\source\\repos\\Aufgabe_2\\module_adder.cpp",
+              "RelativeDocumentMoniker": "module_adder.cpp",
+              "ToolTip": "C:\\Users\\julia\\source\\repos\\Aufgabe_2\\module_adder.cpp",
+              "RelativeToolTip": "module_adder.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-15T07:49:16.146Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

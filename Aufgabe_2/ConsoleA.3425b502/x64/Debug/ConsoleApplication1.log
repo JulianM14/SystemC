@@ -1,0 +1,9 @@
+﻿  main.cpp
+  Unknown compiler version - please run the configure tests and report the results
+C:\Users\julia\source\repos\Aufgabe_2\display.cpp(1,10): warning C4067: Unerwartete Token nach Präprozessordirektive - Zeilenvorschub erwartet.
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+  stimuli.cpp
+  Unknown compiler version - please run the configure tests and report the results
+  Code wird generiert...
+  ConsoleApplication1.vcxproj -> C:\Users\julia\source\repos\Aufgabe_2\x64\Debug\ConsoleApplication1.exe

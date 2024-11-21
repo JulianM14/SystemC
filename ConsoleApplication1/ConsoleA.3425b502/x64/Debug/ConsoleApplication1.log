@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+  Unknown compiler version - please run the configure tests and report the results
+C:\Users\julia\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(17,16): warning C4930: "HelloWorld hello_world(void)": Funktion mit Prototyp wurde nicht aufgerufen (war eine Variablendefinition gemeint?)
+  ConsoleApplication1.vcxproj -> C:\Users\julia\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
